@@ -1,0 +1,5 @@
+requests==2.22.0
+bs4==0.0.1
+SpeechRecognition==3.8.1
+pygame==1.9.6
+gtts==2.0.3
